@@ -1,6 +1,6 @@
 # Riot Composite
 
-![logo](../assets/logo.png)
+![logo](../assets/logo1.png)
 
 Riot Composite is a UI Framework for providing modern, clean components and styles to our products. This organization contains the source code of the documentation, libraries, and the source code of the project.
 
